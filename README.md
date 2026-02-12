@@ -1,7 +1,7 @@
 # MiniClaw 🦞
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/uknownothingsnow/miniclaw/main/assets/logo.png" alt="MiniClaw Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/happydog-intj/miniclaw/main/assets/logo.png" alt="MiniClaw Logo" width="200"/>
 
   > 一个极简版的 AI 助手，用 **400 行代码**实现核心功能：Telegram 集成 + LLM 工具调用 + 文件操作
 </div>
