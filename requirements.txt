@@ -1,0 +1,11 @@
+# LLM 调用
+litellm>=1.0.0
+
+# Telegram Bot
+python-telegram-bot>=21.0
+
+# 日志
+loguru>=0.7.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
